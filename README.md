@@ -1,4 +1,4 @@
-# Electronics-troopers
+# Electronics-hub
 
 Welcome to Electronics Troopers! This website is designed specifically for electronics students, providing a comprehensive collection of study notes, resources, and learning materials. Whether you are a beginner or an advanced learner, our platform offers valuable insights to help you succeed in your electronics studies.
 
